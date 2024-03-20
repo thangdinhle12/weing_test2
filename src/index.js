@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './dist/main.css';
+import './scss/menu.scss';
 import reportWebVitals from './reportWebVitals';
 
 
