@@ -1,4 +1,5 @@
 import Content from './Content.js'
+import './scss/menu.scss';
 
 function App() {
   return (
